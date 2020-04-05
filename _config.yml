@@ -1,11 +1,11 @@
 # Site settings
 author: Hannah Gouin
-title: 
+title: Gouin Codin'
 header-img: img/home-bg.png
 email: hannah.l.gouin@gmail.com
 copyright_name: Hannah Gouin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to Code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  HGouin
