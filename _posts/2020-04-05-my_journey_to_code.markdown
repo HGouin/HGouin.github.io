@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "my_journey_to_code:"
+title:      "My Journey to Code"
 date:       2020-04-05 15:51:59 -0400
 permalink:  my_journey_to_code
 ---
