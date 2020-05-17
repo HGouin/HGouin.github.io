@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Final - Meals CLI"
-date:       2020-05-17 20:36:29 +0000
+date:       2020-05-17 16:36:31 -0400
 permalink:  ruby_final_-_meals_cli
 ---
 
